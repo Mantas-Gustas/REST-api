@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.vscode/
+.history/
+*.code-workspace
+.Scripts
+.Lib
